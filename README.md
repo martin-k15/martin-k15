@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martin-k15
+- 👋 Hi, I’m @martin-k15 and I'm new to github
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript, Typescript, Angular and also git
 - 💞️ I’m looking to collaborate on ...
